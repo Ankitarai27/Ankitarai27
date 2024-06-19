@@ -1,4 +1,6 @@
-![MasterHead](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1715817600&v=beta&t=D5kQnHFk-SS9m4K52hQaWnz6nmTHrGMOkcJpEPtNpz4)
+<img  height="400" width="100%" src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1060&t=st=1718800784~exp=1718801384~hmac=17c558b900391796d4e51a17d65d969bad6db499fbec5c01e26c35c7400a6ecd">
+
+
 <h1 align="center">Hi 👋, I'm Ankita Rai</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align ="right" widht="300px"  height=" 300px" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="Coding">
