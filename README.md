@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ankita Rai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer & DSA enhusiast</h3>
 <img  align ="right" widht="300px"  height=" 300px" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20views&color=0e75b6&style=flat" alt="ankitarai27" /> </p>
