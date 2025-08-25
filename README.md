@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **development skills**
 
-- 💬 Ask me about **C++,DSA ,java,html**
+- 💬 Ask me about **C++,DSA ,java,web dev**
 
 -  📫 How to reach me **ankita.rai052005@gmail.com**
 
