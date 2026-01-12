@@ -18,7 +18,7 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        ---
+        <br/>
         <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
         <br/>
         <br/>
