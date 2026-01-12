@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20views&color=0e75b6&style=flat" alt="ankitarai27" /> </p>
 
-<h2>👩‍💻 About Me</h2>
+👩‍💻 About Me
 
 🌱 Currently learning Full‑Stack Web Development & Advanced DSA
 
