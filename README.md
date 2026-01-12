@@ -7,11 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20views&color=0e75b6&style=flat" alt="ankitarai27" /> </p>
 
-- 🌱 I’m currently learning **development skills**
+👩‍💻 About Me
 
-- 💬 Ask me about **DSA , web dev**
+🌱 Currently learning Full‑Stack Web Development & Advanced DSA
 
--  📫 How to reach me **ankita.rai052005@gmail.com**
+💬 Ask me about DSA, Web Development, Programming Basics
+
+📫 Reach me at ankita.rai052005@gmail.com
+
+⚡ Fun fact: I enjoy turning complex problems into simple solutions ✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
