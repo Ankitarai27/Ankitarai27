@@ -27,10 +27,10 @@
         <li>⚡ Fun fact: <i>I love converting logic into code</i> ✨</li>
       </ul>
       <br/>
-      <h3 align="center">🤝 Connect With Me</h3>
       <p align="center">
+        <b>🤝 Connect With Me:</b> &nbsp;
         <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" style="vertical-align:middle;" />
         </a>
       </p>
     </td>
@@ -62,6 +62,7 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="170" />
+  &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=tokyonight" height="170" />
 </p>
 
@@ -77,8 +78,6 @@
 ---
 
 <p align="center">⭐ If you like my profile, consider starring my repositories!</p>
-
-
 <!-- <img  height="400" width="100%" src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1060&t=st=1718800784~exp=1718801384~hmac=17c558b900391796d4e51a17d65d969bad6db499fbec5c01e26c35c7400a6ecd">
 
 
