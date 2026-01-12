@@ -49,8 +49,8 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Ankitarai27/Shorty_url">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitarai27&repo=Shorty_url&theme=tokyonight" alt="Shorty URL" />
-      </a>
+    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=Ankitarai27&repo=Shorty_url&theme=tokyonight" alt="Shorty URL Project" />
+  </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Ankitarai27/Chatbot">
