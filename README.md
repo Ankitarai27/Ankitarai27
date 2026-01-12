@@ -18,7 +18,6 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <br/>
         <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
         <br/><br/>
         <li>💬 Ask me about <b>DSA, Web Development, Programming</b></li>
@@ -62,13 +61,12 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="170" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
