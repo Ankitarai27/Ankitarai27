@@ -12,32 +12,33 @@
 
 ---
 
+
+
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="320" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" />
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
+        <li>💬 Ask me about <b>DSA, Web Development, Programming</b></li>
+        <li>📫 Reach me at <b>ankita.rai052005@gmail.com</b></li>
+        <li>⚡ Fun fact: <i>I love converting logic into code</i> ✨</li>
+      </ul>
+      <br>
+      <h3>🤝 Connect With Me</h3>
+      <p align="left">
+        <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" width="320" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
-- 🌱 Currently learning **Full-Stack Web Development & Advanced DSA**
-
-  
-- 💬 Ask me about **DSA, Web Development, Programming**
-
-  
-- 📫 Reach me at **ankita.rai052005@gmail.com**
-
-  
-- ⚡ Fun fact: *I love converting logic into code* ✨
-
-<br/>
-
-
----
-
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
-  </a>
-</p>
 
 ---
 
