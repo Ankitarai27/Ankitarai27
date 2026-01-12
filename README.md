@@ -48,27 +48,27 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 1" />
+      <a href="https://github.com/Ankitarai27/Shorty_url">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitarai27&repo=Shorty_url&theme=tokyonight" alt="Shorty URL" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 2" />
+      <a href="https://github.com/Ankitarai27/Chatbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitarai27&repo=Chatbot&theme=tokyonight" alt="Chatbot" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <br/>
-      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 3" />
+     <a href="https://github.com/Ankitarai27/Project_Management">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitarai27&repo=Project_Management&theme=tokyonight" alt="Project Management" />
       </a>
     </td>
     <td width="50%" align="center">
       <br/>
-      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 4" />
+      <a href="https://github.com/Ankitarai27/Adobe-Hackathon-2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitarai27&repo=Adobe-Hackathon-2025&theme=tokyonight" alt="Adobe Hackathon" />
       </a>
     </td>
   </tr>
