@@ -27,14 +27,14 @@
         <li>⚡ Fun fact: <i>I love converting logic into code</i> ✨</li>
       </ul>
       <br/>
-      <p align="center">
-        <b>🤝 Connect With Me:</b> &nbsp;
-        <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" style="vertical-align:middle;" />
+     <p align="center">
+        <span style="font-size: 20px; font-weight: bold; vertical-align: middle;">🤝 Connect With Me: </span>
+        <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank" style="vertical-align: middle;">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="35" style="vertical-align: middle; display: inline-block;" />
         </a>
       </p>
     </td>
-    <td width="40%" align="center" valign="top">
+   <td width="40%" align="center" valign="top">
       <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
