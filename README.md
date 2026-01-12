@@ -43,31 +43,6 @@
 ---
 
 
-## 🚀 Featured Projects
-<br/>
-
-<p align="center">
-  <a href="https://github.com/Ankitarai27/Shorty_url">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=Ankitarai27&repo=Shorty_url&theme=tokyonight" height="150" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ankitarai27/Chatbot">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=Ankitarai27&repo=Chatbot&theme=tokyonight" height="150" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ankitarai27/Project_Management">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=Ankitarai27&repo=Project_Management&theme=tokyonight" height="150" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ankitarai27/Adobe-Hackathon-2025">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=Ankitarai27&repo=Adobe-Hackathon-2025&theme=tokyonight" height="150" />
-  </a>
-</p>
-
----
-
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
