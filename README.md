@@ -48,13 +48,13 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/Ankitarai27/Shorty_url">
-    <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=Ankitarai27&repo=Shorty_url&theme=tokyonight" alt="Shorty URL Project" />
-  </a>
+       <a href="https://github.com/Ankitarai27/Shorty_url">
+        <img src="https://github-readme-stats-tau-ten.vercel.app/api/pin/?username=Ankitarai27&repo=Shorty_url&theme=tokyonight" alt="URL" />
+      </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/Ankitarai27/Chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ankitarai27&repo=Chatbot&theme=tokyonight" alt="Chatbot" />
+     <a href="https://github.com/Ankitarai27/Chatbot">
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/pin/?username=Ankitarai27&repo=Chatbot&theme=tokyonight" alt="Chatbot" />
       </a>
     </td>
   </tr>
