@@ -18,6 +18,7 @@
   <tr>
     <td width="60%" valign="top">
       <ul>
+        <br/>
         <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
         <br/><br/>
         <li>💬 Ask me about <b>DSA, Web Development, Programming</b></li>
