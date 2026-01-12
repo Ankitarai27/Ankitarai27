@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg" width="100%" height="350" />
 </p>
@@ -13,29 +12,64 @@
 ---
 
 ## 👩‍💻 About Me
+<br/>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="60%" valign="top">
       <ul>
         <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
-        <br/><br/>
+        <br/>
         <li>💬 Ask me about <b>DSA, Web Development, Programming</b></li>
-        <br/><br/>
+        <br/>
         <li>📫 Reach me at <b>ankita.rai052005@gmail.com</b></li>
-        <br/><br/>
+        <br/>
         <li>⚡ Fun fact: <i>I love converting logic into code</i> ✨</li>
       </ul>
       <br/>
-     <p align="center">
-        <span style="font-size: 20px; font-weight: bold; vertical-align: middle;">🤝 Connect With Me: </span>
+      <p align="center">
+        <span style="font-size: 18px; font-weight: bold; vertical-align: middle;">🤝 Connect With Me: </span>
         <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank" style="vertical-align: middle;">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" style="vertical-align: middle; display: inline-block;" />
         </a>
       </p>
     </td>
-   <td width="40%" align="center" valign="top">
+    <td width="40%" align="center" valign="top">
       <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+<br/>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 1" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br/>
+      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 3" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <br/>
+      <a href="https://github.com/ankitarai27/YOUR-PROJECT-LINK">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR-REPO-NAME&theme=tokyonight" alt="Project 4" />
+      </a>
     </td>
   </tr>
 </table>
@@ -78,11 +112,3 @@
 ---
 
 <p align="center">⭐ If you like my profile, consider starring my repositories!</p>
-<!-- <img  height="400" width="100%" src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1060&t=st=1718800784~exp=1718801384~hmac=17c558b900391796d4e51a17d65d969bad6db499fbec5c01e26c35c7400a6ecd">
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitarai27&show_icons=true&locale=en&layout=compact" alt="ankitarai27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&locale=en" alt="ankitarai27" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&" alt="ankitarai27" /></p> -->
