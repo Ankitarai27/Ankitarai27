@@ -12,36 +12,33 @@
 
 ---
 
-
-
 ## 👩‍💻 About Me
 
-<table>
+<table border="0">
   <tr>
-    <td>
+    <td width="60%" valign="top">
       <ul>
         <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
-        </br>
+        <br/>
         <li>💬 Ask me about <b>DSA, Web Development, Programming</b></li>
-        </br>
+        <br/>
         <li>📫 Reach me at <b>ankita.rai052005@gmail.com</b></li>
-        </br>
+        <br/>
         <li>⚡ Fun fact: <i>I love converting logic into code</i> ✨</li>
       </ul>
-      <br>
-      <h3>🤝 Connect With Me</h3>
-      <p align="left">
+      <br/>
+      <h3 align="center">🤝 Connect With Me</h3>
+      <p align="center">
         <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="35" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="40" />
         </a>
       </p>
     </td>
-    <td valign="top">
-      <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" width="320" alt="Coding GIF" />
+    <td width="40%" align="center" valign="top">
+      <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" width="100%" alt="Coding GIF" />
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -64,12 +61,12 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
@@ -80,8 +77,6 @@
 ---
 
 <p align="center">⭐ If you like my profile, consider starring my repositories!</p>
-
-
 
 
 <!-- <img  height="400" width="100%" src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg?w=1060&t=st=1718800784~exp=1718801384~hmac=17c558b900391796d4e51a17d65d969bad6db499fbec5c01e26c35c7400a6ecd">
