@@ -21,9 +21,11 @@
     <td>
       <ul>
         <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
-        <br></br>
+        </br>
         <li>💬 Ask me about <b>DSA, Web Development, Programming</b></li>
+        <br></br>
         <li>📫 Reach me at <b>ankita.rai052005@gmail.com</b></li>
+        <br></br>
         <li>⚡ Fun fact: <i>I love converting logic into code</i> ✨</li>
       </ul>
       <br>
