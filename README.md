@@ -32,7 +32,7 @@
       <p align="center">
         <span style="font-size: 18px; font-weight: bold; vertical-align: middle;">🤝 Connect With Me: </span>
         <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank" style="vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" style="vertical-align: middle; display: inline-block;" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="25" style="vertical-align: middle; display: inline-block;" />
         </a>
       </p>
     </td>
