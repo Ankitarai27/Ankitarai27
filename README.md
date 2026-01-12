@@ -19,18 +19,18 @@
     <td width="60%" valign="top">
       <ul>
         <li>🌱 Currently learning <b>Full-Stack Web Development & Advanced DSA</b></li>
-        <br/>
+        <br/><br/>
         <li>💬 Ask me about <b>DSA, Web Development, Programming</b></li>
-        <br/>
+        <br/><br/>
         <li>📫 Reach me at <b>ankita.rai052005@gmail.com</b></li>
-        <br/>
+        <br/><br/>
         <li>⚡ Fun fact: <i>I love converting logic into code</i> ✨</li>
       </ul>
       <br/>
      <p align="center">
         <span style="font-size: 20px; font-weight: bold; vertical-align: middle;">🤝 Connect With Me: </span>
         <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank" style="vertical-align: middle;">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="35" style="vertical-align: middle; display: inline-block;" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="25" width="30" style="vertical-align: middle; display: inline-block;" />
         </a>
       </p>
     </td>
