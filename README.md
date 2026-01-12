@@ -10,17 +10,19 @@
   <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
 </p>
 
-<img align="right" alt="Coding" width="320" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" />
-<br clear="right"/>
-
 ---
 
 ## 👩‍💻 About Me
+
+<img align="right" alt="Coding" width="320" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" />
 
 - 🌱 Currently learning **Full-Stack Web Development & Advanced DSA**
 - 💬 Ask me about **DSA, Web Development, Programming**
 - 📫 Reach me at **ankita.rai052005@gmail.com**
 - ⚡ Fun fact: *I love converting logic into code* ✨
+
+<br/>
+
 
 ---
 
