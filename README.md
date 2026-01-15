@@ -66,7 +66,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="180" alt="Stats" />
   
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?user=ankitarai27&theme=tokyonight" height="180" alt="Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ankitarai27&theme=tokyonight" height="180" alt="Streak" />
 </p>
 
 <p align="center">
