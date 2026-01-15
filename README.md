@@ -65,7 +65,7 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="180" alt="Stats" />
- <img src="https://streak-stats.demolab.com/?user=ankitarai27&theme=tokyonight&cache=1" height="180" alt="Streak" />
+ <img src="https://streak-stats.demolab.com/?user=ankitarai27&theme=tokyonight&cache=2" height="180" alt="Streak" />
 </p>
 
 <p align="center">
