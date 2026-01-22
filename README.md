@@ -65,12 +65,14 @@
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="180" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/streak?username=ankitarai27&theme=tokyonight" height="180" alt="Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ankitarai27&theme=tokyonight" height="180" alt="Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight" height="180" alt="Languages" />
 </p>
+
+
 
 ---
 
