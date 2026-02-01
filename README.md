@@ -2,6 +2,7 @@
   <img src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg" width="100%" height="350" />
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Ankita Rai</h1>
 <h3 align="center">🚀 Web Developer | 💻 DSA Enthusiast | 🌱 Lifelong Learner</h3>
 
