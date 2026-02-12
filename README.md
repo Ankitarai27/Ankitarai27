@@ -69,8 +69,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight&langs_count=12&count_private=true
-" height="180" alt="Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight&langs_count=12" height="180" alt="Languages" />
+<!-- https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight -->
+
 
 </p>
 
