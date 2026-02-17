@@ -15,7 +15,7 @@
 
 <h1 align="center">Hi 👋, I'm Ankita Rai</h1>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -48,7 +48,7 @@
   </tr>
 </table>
 
----
+
 
 
 ## 🛠️ Tech Stack  
