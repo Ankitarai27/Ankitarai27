@@ -81,7 +81,7 @@
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&border_radius=10" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true&border_radius=10" height="170"/>
 </p>
 
