@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/github/stars/ankitarai27?style=for-the-badge&color=yellow"/>
 </p>
 
----
-# 👋 Hello, I'm Ankita Rai 
+
+<h1 align="center">Hi 👋, I'm Ankita Rai</h1>
 
 ---
 
