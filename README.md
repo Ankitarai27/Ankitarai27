@@ -13,6 +13,13 @@
 </p>
 
 ---
+# 👋 Hello, I'm Ankita Rai  
+
+💖 Passionate about building beautiful web experiences and solving problems with code  
+
+✨ I believe in **learning by building** and constantly improving  
+
+---
 
 ## 👩‍💻 About Me
 <br/>
