@@ -1,12 +1,15 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/digital-coding-background-with-numbers-zero-one_1017-30363.jpg" width="100%" height="350" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Ankita%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Ankita Rai</h1>
-<h3 align="center">🚀 Web Developer | 💻 DSA Enthusiast | 🌱 Lifelong Learner</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=E100FF&center=true&vCenter=true&width=600&lines=🚀+Web+Developer;💻+DSA+Enthusiast;🌱+Lifelong+Learner;✨+Turning+Logic+into+Code"/>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/ankitarai27?style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/stars/ankitarai27?style=for-the-badge&color=yellow"/>
 </p>
 
 ---
