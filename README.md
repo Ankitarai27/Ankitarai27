@@ -70,21 +70,16 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight" height="180" alt="Stats" />
-  </p>
-  <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=ankitarai27&theme=tokyonight" height="180" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight&langs_count=15" height="250" width="380" alt="Languages" />
-
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=radical&hide_border=true&border_radius=10"/>
 </p>
-
-
 
 ---
 
