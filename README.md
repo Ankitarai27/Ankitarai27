@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/DBMS-Databases-green?style=for-the-badge"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mysql,mongodb,vite,tailwind,git,github,figma,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mysql,mongodb,vite,bootstrap,tailwind,git,github,figma,npm,postman&perline=10" />
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
 </p>
 
