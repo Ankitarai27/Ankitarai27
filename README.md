@@ -88,9 +88,17 @@
 
 ---
 
-## ✨ Quote I Believe In
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i> 😄</p>
+## ✨ Quote I Believe In  
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
-<p align="center">⭐ If you like my profile, consider starring my repositories!</p>
+
+## 💖 Support  
+
+⭐ If you like my profile, consider starring my repositories!  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E100FF,100:7F00FF&height=120&section=footer"/>
+</p>
