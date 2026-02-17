@@ -55,12 +55,12 @@
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,c,react,node,sql,mongo,dsa,git,github,figna,postman," />
 </p>
 
 ### ⚙️ Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman" />
+  <!-- <img src="https://skillicons.dev/icons?i=git,github,figma,postman" /> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
 </p>
 
