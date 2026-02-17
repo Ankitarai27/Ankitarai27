@@ -55,7 +55,7 @@
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,c,react,node,sql,mongo,dsa,git,github,figna,postman," />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,c,react,nodejs,sql,mysql,vite,tailwind,express,mongo,dsa,git,github,figna,postman," />
 </p>
 
 ### ⚙️ Tools & Platforms  
