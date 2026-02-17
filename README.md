@@ -51,18 +51,23 @@
 
 
 
-## 🛠️ Tech Stack  
+## 🚀 Skills & Technologies  
 
-### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css,c,react,nodejs,sql,mysql,vite,tailwind,express,mongo,dsa,git,github,figna,postman," />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mysql,mongodb,vite,tailwind,git,github,figma,postman&perline=9" />
 </p>
 
-### ⚙️ Tools & Platforms  
 <p align="center">
-  <!-- <img src="https://skillicons.dev/icons?i=git,github,figma,postman" /> -->
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-Object%20Oriented-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OS-Operating%20Systems-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-Databases-green?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/>
 </p>
+
 
 ---
 <!-- <p align="center"> 
