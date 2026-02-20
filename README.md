@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Ankita%20Rai&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=E100FF&center=true&vCenter=true&width=600&lines=🚀+Web+Developer;💻+DSA+Enthusiast;🌱+Lifelong+Learner;✨+Turning+Logic+into+Code"/>
 </p>
