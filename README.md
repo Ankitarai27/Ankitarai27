@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8A2BE2,40:FF4ECD,100:00C9FF&text=Ankita%20Rai&fontColor=ffffff&fontAlignY=38&fontSize=56&desc=Building%20beautiful%20logic-driven%20digital%20experiences&descAlignY=58&animation=fadeIn" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=820&lines=💡+Turning+Ideas+into+Code;🚀+Full-Stack+Web+Developer+in+Progress;🧠+DSA+%7C+Problem+Solving+%7C+Growth+Mindset;✨+Crafting+Clean,+Creative,+Impactful+Projects" alt="Typing Intro" />
 </p>
