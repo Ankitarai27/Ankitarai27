@@ -1,94 +1,68 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:8A2BE2,40:FF4ECD,100:00C9FF&text=Ankita%20Rai&fontColor=ffffff&fontAlignY=38&fontSize=56&desc=Building%20beautiful%20logic-driven%20digital%20experiences&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,45:FF4ECD,100:00C9FF&text=Ankita%20Rai&fontColor=ffffff&fontAlignY=38&fontSize=52&desc=Frontend-focused%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=820&lines=💡+Turning+Ideas+into+Code;🚀+Full-Stack+Web+Developer+in+Progress;🧠+DSA+%7C+Problem+Solving+%7C+Growth+Mindset;✨+Crafting+Clean,+Creative,+Impactful+Projects" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=900&lines=Frontend+Developer+in+Progress;Building+Clean+Responsive+Web+Apps;React+%7C+JavaScript+%7C+UI+Engineering;Open+to+Internships+and+Entry-Level+Software+Roles" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=PROFILE+VIEWS&style=for-the-badge&color=9d4edd" />
-  <img src="https://img.shields.io/github/followers/ankitarai27?style=for-the-badge&logo=github&label=FOLLOWERS&color=00b4d8" />
-  <img src="https://img.shields.io/github/stars/ankitarai27?style=for-the-badge&logo=github&label=STARS&color=ffbe0b" />
+  <img src="https://img.shields.io/badge/Open%20to-Frontend%20Roles-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Final%20Year-ECE%20%40%20NITP-3b82f6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-f43f5e?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20Views&color=9d4edd&style=for-the-badge" />
 </p>
 
----
+## 👋 About Me
+I’m Ankita, a final-year ECE student at NIT Patna, building my career in software engineering with a frontend focus.  
+I enjoy turning ideas into fast, responsive, and user-friendly web apps.
 
-<h1 align="center">Hi there, I'm Ankita Rai 👋</h1>
+## 🎯 What I'm Looking For
+I’m actively looking for **Frontend / Software Engineering Intern & Entry-Level Roles** where I can build real products, learn fast, and contribute with ownership.
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,git,github,figma,postman,vscode&perline=8" />
+</p>
+
+## 🚀 Featured Projects
+- **Project 1** — short impact line. [Live](#) | [Repo](#)
+- **Project 2** — short impact line. [Live](#) | [Repo](#)
+- **Project 3** — short impact line. [Live](#) | [Repo](#)
 
 <p align="center">
-  <b>A passionate learner who loves building, debugging, and growing every single day.</b>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR_REPO_1&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR_REPO_2&theme=radical&hide_border=true" />
 </p>
-
-<br/>
-
-## 🌸 About Me
-
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-- 🌱 I’m currently diving deeper into **Full-Stack Web Development** and **Advanced DSA**.
-- 🧩 I enjoy solving problems related to **Data Structures**, **Algorithms**, and **System Design basics**.
-- 💬 Ask me about **Web Development, DSA, OOP, DBMS, and Programming fundamentals**.
-- 📫 Reach me at: **ankita.rai052005@gmail.com**.
-- ⚡ Fun fact: I genuinely love turning raw logic into polished products.
-
-### 🤝 Let’s Connect
-<p>
-  <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ankita%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-  </td>
-  <td width="42%" align="center" valign="top">
-    <img src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif" width="100%" alt="Coding animation" />
-  </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-8338ec?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Design%20Principles-3a86ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-Structured%20Data-06d6a0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OS-Computer%20Fundamentals-f3722c?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,express,mysql,mongodb,vite,bootstrap,tailwind,git,github,figma,npm,postman&perline=10" alt="Skill Icons" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="46" alt="MATLAB" />
-</p>
-
----
 
 ## 📈 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&border_radius=14&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true&border_radius=14" height="170" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=radical&hide_border=true&border_radius=14&langs_count=10" height="230" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
-
-## ✨ Daily Motivation
-
+## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://raw.githubusercontent.com/ankitarai27/ankitarai27/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
-
+## 🏆 Achievements
 <p align="center">
-  <i>"Consistency beats intensity — show up, build, improve, repeat."</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitarai27&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+## 🤝 Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/ankita-rai-ab7934257/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ankita%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ankita.rai052005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ankita.rai052005%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
