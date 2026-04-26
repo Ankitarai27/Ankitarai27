@@ -34,9 +34,9 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 </p>
 
 ## 🚀 Featured Projects
-- **Project 1** — short impact line. [Live](https://shorty-url-gray.vercel.app/) | [[Repo](https://github.com/Ankitarai27/Shorty_url)](#)
-- **Project 2** — short impact line. [[Live](https://adobe-hackathon-mhvr.onrender.com/)](#) | [[Repo](https://github.com/Ankitarai27/Adobe-Hackathon-2025)](#)
-- **Project 3** — short impact line. [Live](#) | [Repo](#)
+- **Project 1** — Smart URL Shortening . [Live](https://shorty-url-gray.vercel.app/) | [Repo](https://github.com/Ankitarai27/Shorty_url)
+- **Project 2** — Smart PDF Ingestion. [Live](https://adobe-hackathon-mhvr.onrender.com/) | [Repo](https://github.com/Ankitarai27/Adobe-Hackathon-2025)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=Shorty_url&theme=radical&hide_border=true" />
