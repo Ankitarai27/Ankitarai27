@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=900&lines=Frontend+Developer+in+Progress;Building+Clean+Responsive+Web+Apps;React+%7C+JavaScript+%7C+UI+Engineering;Open+to+Internships+and+Entry-Level+Software+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=900&lines=Frontend+Developer;Building+Clean+Responsive+Web+Apps;React+%7C+JavaScript+%7C+UI+Engineering;Open+to+Entry-Level+Software+Roles" />
 </p>
 
 <p align="center">
@@ -18,21 +18,29 @@ I’m Ankita, a final-year ECE student at NIT Patna, building my career in softw
 I enjoy turning ideas into fast, responsive, and user-friendly web apps.
 
 ## 🎯 What I'm Looking For
-I’m actively looking for **Frontend / Software Engineering Intern & Entry-Level Roles** where I can build real products, learn fast, and contribute with ownership.
+I’m actively looking for **Frontend / Software Engineering Roles** where I can build real products, learn fast, and contribute with ownership.
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,git,github,figma,postman,vscode&perline=8" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-8338ec?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Design%20Principles-3a86ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-Structured%20Data-06d6a0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Computer%20Fundamentals-f3722c?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,git,github,postman,vscode&perline=8" />
 </p>
 
 ## 🚀 Featured Projects
-- **Project 1** — short impact line. [Live](#) | [Repo](#)
-- **Project 2** — short impact line. [Live](#) | [Repo](#)
+- **Project 1** — short impact line. [[Live](https://shorty-url-gray.vercel.app/)](#) | [[Repo](https://github.com/Ankitarai27/Shorty_url)](#)
+- **Project 2** — short impact line. [[Live](https://adobe-hackathon-mhvr.onrender.com/)](#) | [[Repo](https://github.com/Ankitarai27/Adobe-Hackathon-2025)](#)
 - **Project 3** — short impact line. [Live](#) | [Repo](#)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR_REPO_1&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=YOUR_REPO_2&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=Shorty_url&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=Adobe-Hackathon-2025&theme=radical&hide_border=true" />
 </p>
 
 ## 📈 GitHub Analytics
@@ -50,10 +58,10 @@ I’m actively looking for **Frontend / Software Engineering Intern & Entry-Leve
   <img src="https://raw.githubusercontent.com/ankitarai27/ankitarai27/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-## 🏆 Achievements
-<p align="center">
+<!-- ## 🏆 Achievements -->
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankitarai27&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</p>
+</p> -->
 
 ## 🤝 Connect
 <p align="left">
