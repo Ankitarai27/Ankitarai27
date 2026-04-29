@@ -58,10 +58,12 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
   <img src="https://raw.githubusercontent.com/ankitarai27/ankitarai27/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<!-- ## 🏆 Achievements -->
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitarai27&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
-</p> -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitarai27&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
 
 ## 🤝 Connect
 <p align="left">
