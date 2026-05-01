@@ -66,15 +66,15 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 
 ## 📈 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&rank_icon=github/&border_radius=14&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true&border_radius=14" height="170" />
-</p>
-<!-- <p align="center">
+</p> -->
+<p align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true" />  
- </p>  -->
+ </p> 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=radical&hide_border=true" />
