@@ -82,7 +82,7 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitarai27/ankitarai27/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ankitarai27/ankitarai27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 
