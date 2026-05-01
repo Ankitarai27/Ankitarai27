@@ -30,9 +30,29 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
   <img src="https://img.shields.io/badge/OS-Computer%20Fundamentals-f3722c?style=for-the-badge" />
 </p>
 
+### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,git,github,postman,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6" />
 </p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=4" />
+</p>
+
+### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=5" />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,git,github,postman,vscode&perline=8" />
+</p> -->
 
 ## 🚀 Featured Projects
 - **Project 1** — Smart URL Shortening . [Live](https://shorty-url-gray.vercel.app/) | [Repo](https://github.com/Ankitarai27/Shorty_url)
