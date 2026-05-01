@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,45:FF4ECD,100:00C9FF&text=Ankita%20Rai&fontColor=ffffff&fontAlignY=38&fontSize=52&desc=Frontend-focused%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=900&lines=Frontend+Developer;Building+Clean+Responsive+Web+Apps;React+%7C+JavaScript+%7C+UI+Engineering;Open+to+Entry-Level+Software+Roles" />
 </p>
