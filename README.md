@@ -23,24 +23,15 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 
 ## 🛠️ Tech Stack
 
-### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-8338ec?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Design%20Principles-3a86ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-Structured%20Data-06d6a0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OS-Computer%20Fundamentals-f3722c?style=for-the-badge" />
 </p>
 
-### Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=4" />
-</p>
-
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=5" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,git,github,postman,vscode&perline=8" />
 </p>
 
 ## 🚀 Featured Projects
