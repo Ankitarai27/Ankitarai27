@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,50:2563eb,100:1d4ed8&text=Ankita%20Rai&fontColor=ffffff&fontAlignY=38&fontSize=52&desc=Frontend-focused%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" />
 </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=900&lines=Frontend+Developer;Building+Clean+Responsive+Web+Apps;React+%7C+JavaScript+%7C+UI+Engineering;Open+to+Entry-Level+Software+Roles" />
 </p>
@@ -42,6 +43,15 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" />
 </p>
 
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=4" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,tailwind,bootstrap,nodejs,express,mysql,mongodb,git,github,postman,vscode&perline=8" />
+</p> -->
+
 ## 🚀 Featured Projects
 - **Project 1** — Smart URL Shortening . [Live](https://shorty-url-gray.vercel.app/) | [Repo](https://github.com/Ankitarai27/Shorty_url)
 - **Project 2** — Smart PDF Ingestion. [Live](https://adobe-hackathon-mhvr.onrender.com/) | [Repo](https://github.com/Ankitarai27/Adobe-Hackathon-2025)
@@ -53,10 +63,17 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 </p>
 
 ## 📈 GitHub Analytics
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&rank_icon=github/&border_radius=14&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true&border_radius=14" height="170" />
+</p> -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankitarai27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=tokyonight&hide_border=true" />
-</p>
+
+
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true" />  
+ </p> 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=tokyonight&hide_border=true" />
@@ -64,7 +81,7 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 
 ## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ankitarai27/ankitarai27/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ankitarai27/ankitarai27/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 
