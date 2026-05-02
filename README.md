@@ -77,7 +77,7 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
  </p> 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Graph
