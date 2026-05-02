@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:38BDF8&text=Ankita%20Rai&fontColor=ffffff&fontAlignY=38&fontSize=52&desc=Frontend-focused%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,45:FF4ECD,100:00C9FF&text=Ankita%20Rai&fontColor=ffffff&fontAlignY=38&fontSize=52&desc=Frontend-focused%20Aspiring%20Software%20Engineer&descAlignY=58&animation=fadeIn" />
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Frontend+Developer;Building+Clean+Responsive+Web+Apps;React+%7C+JavaScript+%7C+UI+Engineering;Open+to+Entry-Level+Software+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=900&lines=Frontend+Developer;Building+Clean+Responsive+Web+Apps;React+%7C+JavaScript+%7C+UI+Engineering;Open+to+Entry-Level+Software+Roles" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Frontend%20Roles-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Final%20Year-ECE%20%40%20NITP-3b82f6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-0ea5e9?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20JavaScript-f43f5e?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ankitarai27&label=Profile%20Views&color=9d4edd&style=for-the-badge" />
 </p>
 
 ## 👋 About Me
@@ -60,24 +60,24 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=Shorty_url&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=Adobe-Hackathon-2025&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=Shorty_url&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankitarai27&repo=Adobe-Hackathon-2025&theme=radical&hide_border=true" />
 </p>
 
 ## 📈 GitHub Analytics
 
 <!-- <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=github_dark&rank_icon=github/&border_radius=14&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=github_dark&hide_border=true&border_radius=14" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&rank_icon=github/&border_radius=14&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true&border_radius=14" height="170" />
 </p> -->
 <p align="center">
 
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=github_dark&hide_border=true" />  
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=ankitarai27&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitarai27&theme=radical&hide_border=true" />  
  </p> 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ankitarai27&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Graph
@@ -88,7 +88,7 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient"/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitarai27&theme=github_dark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ankitarai27&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 
@@ -103,5 +103,5 @@ I’m actively looking for **Frontend / Software Engineering Roles** where I can
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:000000,100:38BDF8" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C9FF,50:FF4ECD,100:8A2BE2" />
 </p>
